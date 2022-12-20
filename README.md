@@ -1,0 +1,3 @@
+Script for console.
+
+> Trusted.
